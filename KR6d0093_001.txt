@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:32.873128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:08
 #+TITLE: 法華經科拾科
 #+PROPERTY: CBETA_ID X33n0627
 #+PROPERTY: ID KR6d0093
